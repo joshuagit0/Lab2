@@ -35,7 +35,7 @@ def calc_average_temperature(templist):
 
 
 def calc_median_temperature(templist):
-    print("calc_median_temperature")
+    print("calculate_median_temperature")
     return statistics.median(sorted(templist))
 
 def main():
