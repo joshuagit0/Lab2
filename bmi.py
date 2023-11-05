@@ -19,4 +19,4 @@ def calculate_bmi(height, weight):
         return 1
 
 
-calculate_bmi(1.8, 80)
+calculate_bmi(1.65, 80)
